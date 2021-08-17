@@ -1,6 +1,6 @@
 # Elenilton
 
-### Sou estudante de análise e desenvolcimento de sistemas
+### Sou estudante de análise e desenvolvimento de sistemas
 
 - Gosto das tecnologias abaixo e adora estudar.
 
